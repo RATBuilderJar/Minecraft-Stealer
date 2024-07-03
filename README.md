@@ -1,7 +1,7 @@
 # Minecraft-Stealer
 #### Simple Session-Token stealer written as a forge mod for Minecraft 1.8.9
 
-## For questions or errors, write to the discord: iloverat1488
+## For questions or errors, write to the discord: iloverat333
 
 # ⚠️ Disclaimer
 #### This program is for educational purposes only, and I am not responsible for any of your actions
