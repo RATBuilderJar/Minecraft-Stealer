@@ -1,4 +1,4 @@
-![image](https://github.com/RATBuilderJar/Minecraft-Stealer-/assets/174628238/f67463ff-1578-4690-9698-96d2e9d1a549)![image](https://github.com/RATBuilderJar/Minecraft-Stealer-/assets/174628238/354760cc-660d-470b-a22e-aee20103d437)# Minecraft-Stealer
+# Minecraft-Stealer
 #### Simple Session-Token stealer written as a forge mod for Minecraft 1.8.9
 
 ## For questions or errors, write to the discord: iloverat1488
